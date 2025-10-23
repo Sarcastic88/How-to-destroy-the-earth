@@ -1,33 +1,22 @@
-body
-{
+body {
     background-color: #481D24; color:#FF6479;
     
 }
-
-h1
-{
+h1 {
     text-align:center;padding: 0px;font-size: 60px;
-    height:30px;
-    
+    height:30px;    
 }
-
-h2
-{
+h2 {
     text-align:center;padding: 20px;font-size: 50px;
     height:20px;
 }
-
-p
-{
+p {
     text-align:center;
     font-size: 35px;
     padding: 10px;
-    width:450px;
-    
+    width:450px;   
 }
-
-.float 
-{
+.float {
     float:left;
     padding:0px;
     width:auto;
@@ -37,8 +26,7 @@ p
   display: block;
   margin-left: auto;
   font-size: 35px;
-  margin-right: auto;
-  
+  margin-right: auto; 
 }
 .sidebar {
   height: 100%; /* 100% Full-height */
@@ -52,7 +40,6 @@ p
   padding-top: 0px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
 }
-
 .sidebar a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
@@ -61,7 +48,6 @@ p
   display: block;
   transition: 0.3s;
 }
-
 .sidebar a:hover {
   background-color: #3d3d3d;
   color:white;
@@ -69,10 +55,10 @@ p
 .sidenav button {
   float:right;
 }
-.border{
+.border {
     border-color:#FF6479;
 }
-hr{
+hr {
     border-color:#FF6479;
 }
 #navbar img {
@@ -83,7 +69,6 @@ hr{
     margin-left: auto;
     margin-right: auto;
 }
-
 #navbar {
   position: sticky;
   top: 0;
@@ -93,7 +78,6 @@ hr{
   border-style:solid;
   border-color:#481D24;
 }
-
 #navbar div {
   float: left;
   display: block;
@@ -118,23 +102,18 @@ hr{
 #navbar img:hover {
   filter: brightness(2000%);
 }
-
-
-.intrestList 
-{
+.intrestList {
     display: block;
     width: 50%;
     text-align:left;
     font-size: 35px;
 }
-.listPictures
-{
+.listPictures {
     width:200px;
     border-style:double;
     border-color:white;
 }
-.pText
-{
+.pText {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -143,8 +122,7 @@ hr{
     font-size: 35px;
     padding: 0px;
 }
-.infront
-{
+.infront {
     background-color:#333;
     text-align:center;
 }
@@ -155,10 +133,8 @@ hr{
   margin-left: auto;
   margin-right: auto;
   white-space: nowrap;
-  padding: 0px;
-  
+  padding: 0px; 
 }
-
 div.scroll-container img {
   padding: 10px;
   width:400px;
@@ -179,11 +155,8 @@ div.scroll-container img {
     margin-left: auto;
     margin-right: auto;
     width:400px;
-    
     padding:40px;
 }
 .infoPic img {
     width:350px;
-    
-
 }
