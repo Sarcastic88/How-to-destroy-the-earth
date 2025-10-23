@@ -139,6 +139,7 @@ hr {
   color: #055009;
   text-align:center;
   width: auto;
+  padding:0px;
 }
 .scroll-container {
   background-color: #333;
