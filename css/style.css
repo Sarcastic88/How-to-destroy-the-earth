@@ -27,6 +27,7 @@ p {
   margin-left: auto;
   font-size: 35px;
   margin-right: auto; 
+  width:auto;
 }
 .sidebar {
   height: 100%; /* 100% Full-height */
@@ -138,7 +139,7 @@ hr {
 .infront li{
   color: #055009;
   text-align:center;
-  width: auto;
+  width: 300px;
   padding:0px;
 }
 .scroll-container {
