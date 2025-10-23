@@ -1,5 +1,5 @@
 body {
-    background-color: #481D24; color:#FF6479;
+    background-color: #2cb802; color: #055b12;
     
 }
 h1 {
@@ -56,10 +56,10 @@ p {
   float:right;
 }
 .border {
-    border-color:#FF6479;
+    border-color:#2e5033;
 }
 hr {
-    border-color:#FF6479;
+    border-color:#2e5033;
 }
 #navbar img {
     border-radius: 15%;
@@ -73,10 +73,10 @@ hr {
   position: sticky;
   top: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #1f8e08;
   z-index: 1;
   border-style:solid;
-  border-color:#481D24;
+  border-color:#2e5033;
 }
 #navbar div {
   float: left;
@@ -89,7 +89,7 @@ hr {
 #navbar a {
   float: left;
   display: block;
-  color: #FF6479;
+  color: #055b12;
   font-size: 25px;
   text-align: center;
   padding: 25px;
