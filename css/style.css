@@ -123,8 +123,9 @@ hr {
     padding: 0px;
 }
 .infront {
-    background-color:#333;
+    background-color: #1f8e08;
     text-align:center;
+    border-color:#2e5033;
 }
 .scroll-container {
   background-color: #333;
