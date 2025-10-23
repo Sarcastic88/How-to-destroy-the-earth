@@ -55,7 +55,7 @@ p {
 .sidenav button {
   float:right;
 }
-.border {
+.border { 
     border-color:#2e5033;
 }
 hr {
@@ -126,6 +126,14 @@ hr {
     background-color: #1f8e08;
     text-align:center;
     border-color:#2e5033;
+    border-style:solid;
+
+    
+}
+.infront p{
+  color: #055009;
+  text-align:center;
+  width: auto;
 }
 .scroll-container {
   background-color: #333;
