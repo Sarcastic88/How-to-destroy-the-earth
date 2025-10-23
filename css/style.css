@@ -135,6 +135,11 @@ hr {
   text-align:center;
   width: auto;
 }
+.infront li{
+  color: #055009;
+  text-align:center;
+  width: auto;
+}
 .scroll-container {
   background-color: #333;
   width:"50";
